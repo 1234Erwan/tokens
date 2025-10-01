@@ -1,12 +1,12 @@
 {
-  "name": "MixHeberg",
-  "symbol": "MH",
-  "description": "Le jeton officiel du service d'hebergement MixHeberg",
-  "image": "https://raw.githubusercontent.com//1234Erwan/mixheberg-coin/main/coin.png",
+  "name": "Foot of Shrek",
+  "symbol": "SHREK",
+  "description": "Come taste Shrek's feet.",
+  "image": "https://raw.githubusercontent.com/1234Erwan/tokens/main/token.png",
   "attributes": [
     {
-      "trait_type": "Creator",
-      "value": "1234Erwan"
+      "trait_type": "Owner",
+      "value": "Shrek"
     }
   ]
 }
